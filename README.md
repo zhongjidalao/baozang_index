@@ -16,7 +16,7 @@
 
 <img src="https://s2.ax1x.com/2020/02/15/1zkZ1f.png"/>
 
-直接运行程序，输入网址和视频的oid，oi号应该是B站视频的唯一编码，按f12找到list.so文件，后面带的就是oid。
+直接运行程序，输入网址和视频的oid，oid号应该是B站视频的唯一编码，按f12找到list.so文件，后面带的就是oid。
 
 <img src="https://s2.ax1x.com/2020/02/15/1zkec8.png"/>
 
