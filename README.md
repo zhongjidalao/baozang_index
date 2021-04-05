@@ -1,6 +1,6 @@
 ## 宝藏值
 
-[![GitHub stars](https://img.shields.io/github/stars/zhongjidalao/baozang_index)](https://github.com/zhongjidalao/baozang_index/stargazers)[![GitHub license](https://img.shields.io/github/license/zhongjidalao/baozang_index)](https://github.com/zhongjidalao/baozang_index/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/zhongjidalao/baozang_index)](https://github.com/zhongjidalao/baozang_index/stargazers) [![GitHub license](https://img.shields.io/github/license/zhongjidalao/baozang_index)](https://github.com/zhongjidalao/baozang_index/blob/master/LICENSE)
 
 因为经常打开一个动漫就有一大堆人刷宝藏动漫，就像这个样子
 
